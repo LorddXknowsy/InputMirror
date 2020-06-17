@@ -1,2 +1,2 @@
 # InputMirror
-Not my first angularJs work
+Not a first ever, but at least, first of all my angularJs works.
